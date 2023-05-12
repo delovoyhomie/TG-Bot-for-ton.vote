@@ -1,0 +1,11 @@
+{
+  "name": "for-orbs",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "core-js": "^3.30.1"
+  }
+}
